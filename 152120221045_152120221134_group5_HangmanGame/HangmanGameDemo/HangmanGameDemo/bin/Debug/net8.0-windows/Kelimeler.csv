@@ -1,0 +1,75 @@
+kedi,Evcil ve mırlayan bir hayvan,Kolay,Hayvan
+köpek,İnsanların en iyi dostu olarak bilinir,Kolay,Hayvan
+balık,Suda yaşayan soğukkanlı canlı,Kolay,Hayvan
+kuş,Uçabilen ve ötüşüyle bilinen canlı,Kolay,Hayvan
+inek,Süt veren büyükbaş hayvan,Kolay,Hayvan
+papağan,Konuşma yeteneğiyle bilinen renkli kuş türü,Orta,Hayvan
+kaplumbağa,Yavaş hareket eden kabuklu hayvan,Orta,Hayvan
+zürafa,Uzun boynu ile tanınan Afrika hayvanı,Orta,Hayvan
+tilki,Kurnazlığı ile bilinen orman hayvanı,Orta,Hayvan
+ayı,Yuvasında kış uykusuna yatan büyük memeli,Orta,Hayvan
+ornitorenk,Memeli olmasına rağmen yumurtlayan tuhaf hayvan,Zor,Hayvan
+şempanze,İnsanlara genetik olarak en yakın hayvanlardan biri,Zor,Hayvan
+karabatak,Suda balık avlayan ve tüylerini kurutmak için kanatlarını açan kuş,Zor,Hayvan
+pangolin,Pullu derisiyle dikkat çeken ve karınca yiyen memeli,Zor,Hayvan
+antilop,Savanlarda hızlı koşmasıyla bilinen zarif hayvan,Zor,Hayvan
+Türkiye,Başkenti Ankara olan bir ülke,Kolay,Ülke
+Fransa,Eiffel Kulesi'nin bulunduğu ülke,Kolay,Ülke
+Japonya,Anime ve teknolojisiyle ünlü bir Asya ülkesi,Kolay,Ülke
+İtalya,Pizzanın anavatanı,Kolay,Ülke
+Brezilya,Samba ve futbol denince akla gelen Güney Amerika ülkesi,Kolay,Ülke
+Norveç,İskandinavya’da bulunan kuzey ışıklarıyla ünlü ülke,Orta,Ülke
+Arjantin,Tango dansının anavatanı olan Güney Amerika ülkesi,Orta,Ülke
+Portekiz,Lizbon başkentli, Atlantik kıyısında Avrupa ülkesi,Orta,Ülke
+Tayland,Tapınakları ve tropikal plajlarıyla tanınan Asya ülkesi,Orta,Ülke
+Mısır,Piramitleri ve Nil Nehri ile ünlü Afrika ülkesi,Orta,Ülke
+Kırgızistan,Orta Asya’da yer alan ve Bişkek başkenti olan ülke,Zor,Ülke
+Lihtenştayn,Avusturya ve İsviçre arasında kalan küçük Avrupa ülkesi,Zor,Ülke
+Ekvator Ginesi,Adı Ekvator’dan gelen, Afrika’nın batı kıyısında küçük bir ülke,Zor,Ülke
+Türkmenistan,Başkent Aşkabat olan ve Karakum Çölü’ne sahip ülke,Zor,Ülke
+Butan,Himalayalar’da yer alan ve “mutluluk” endeksiyle tanınan Asya ülkesi,Zor,Ülke
+Elma,Genellikle kırmızı veya yeşil olan yuvarlak meyve,Kolay,Meyve
+Muz,Sarı kabuklu, kıvrık ve tropikal bir meyve,Kolay,Meyve
+Üzüm,Salkım halinde yetişen küçük yuvarlak meyve,Kolay,Meyve
+Çilek,Kırmızı renkli ve dışı taneli küçük tatlı meyve,Kolay,Meyve
+Karpuz,Yazın serinleten, iri ve kırmızı içli meyve,Kolay,Meyve
+Kayısı,Yaz aylarında tüketilen turuncu renkli çekirdekli meyve,Orta,Meyve
+Nektarin,Şeftaliye benzeyen ama kabuğu tüysüz olan meyve,Orta,Meyve
+Trabzon hurması,Turuncuya yakın rengiyle tatlı ve yumuşak bir meyve,Orta,Meyve
+Ahududu,Kırmızı renkli, küçük taneli ve ormanlık alanlarda yetişen meyve,Orta,Meyve
+İncir,Tatlı iç yapısıyla yaz sonu olgunlaşan mor veya yeşil meyve,Orta,Meyve
+Rambutan,Kabuğu tüylü ve tropikal bir Güneydoğu Asya meyvesi,Zor,Meyve
+Kudret narı,Acımsı tadıyla bilinen ve şifalı olduğuna inanılan meyve,Zor,Meyve
+Mangostan,Mor kabuklu ve Güney Asya kökenli tropikal bir meyve,Zor,Meyve
+Aronya,Antioksidan bakımından zengin, küçük koyu mor meyve,Zor,Meyve
+Feijoa,Tadı ananas ve çileğe benzeyen, yeşil kabuklu Güney Amerika meyvesi,Zor,Meyve
+Futbol,11 kişilik takımlarla oynanan ve kaleye gol atma amacı taşıyan spor,Kolay,Spor
+Basketbol,Potaya top atarak sayı kazanılan, elle oynanan takım sporu,Kolay,Spor
+Voleybol,Ellerle file üzerinden topu karşı sahaya atmaya dayalı takım oyunu,Kolay,Spor
+Tenis,Raketle topun karşı sahaya atıldığı bireysel veya çiftli spor,Kolay,Spor
+Yüzme,Su içinde yapılan ve vücutla ilerlemeyi gerektiren spor,Kolay,Spor
+Hentbol,Elde top ile oynanan ve kaleye gol atmaya dayalı salon sporu,Orta,Spor
+Badminton,Tüylü top ve raketle oynanan hızlı refleks gerektiren spor,Orta,Spor
+Eskrim,Kılıçla bire bir yapılan ve refleks ile stratejiye dayalı spor,Orta,Spor
+Jimnastik,Esneklik, denge ve koordinasyon gerektiren bireysel spor,Orta,Spor
+Kayak,Karda özel ekipmanla yapılan ve genellikle dağlık bölgelerde oynanan spor,Orta,Spor
+Kriket,Top ve sopayla oynanan, özellikle İngiltere ve Hindistan’da popüler spor,Zor,Spor
+Curling,Buz üzerinde taş kaydırılarak oynanan strateji temelli takım sporu,Zor,Spor
+Triatlon,Yüzme, bisiklet ve koşunun ard arda yapıldığı dayanıklılık sporu,Zor,Spor
+Ragbi,Oval top ile fiziksel temasın yoğun olduğu İngiliz kökenli takım sporu,Zor,Spor
+Atletizm,Koşu, atlama ve atma gibi branşları kapsayan temel bireysel spor,Zor,Spor
+Kalem,Yazı yazmak için kullanılan ince ve uzun eşya,Kolay,Eşya
+Masa,Üzerine eşya koymak veya çalışmak için kullanılan mobilya,Kolay,Eşya
+Sandalye,Üzerine oturulan dört ayaklı mobilya,Kolay,Eşya
+Telefon,İletişim kurmak ve arama yapmak için kullanılan cihaz,Kolay,Eşya
+Kitap,Bilgi veya hikaye içeren, sayfalardan oluşan basılı eşya,Kolay,Eşya
+Çalar saat,Sabahları uyanmak için kullanılan sesli zamanlayıcı eşya,Orta,Eşya
+Cüzdan,Paraları ve kartları taşımak için kullanılan küçük kişisel eşya,Orta,Eşya
+Abajur,Loş ışık sağlamak için kullanılan dekoratif aydınlatma eşyası,Orta,Eşya
+Makas,Kumaş, kağıt gibi şeyleri kesmek için kullanılan iki bıçaklı el aleti,Orta,Eşya
+Süpürge,Evi temizlemek için kullanılan, genellikle elektrikli temizlik eşyası,Orta,Eşya
+Tornavida,Vidaları sökmek veya sıkmak için kullanılan el aleti,Zor,Eşya
+Metre,Uzunluk ölçmek için kullanılan, genellikle sarılabilir araç,Zor,Eşya
+Dürbün,Uzakta olan nesneleri daha yakından görmek için kullanılan optik eşya,Zor,Eşya
+Daktilo,Bilgisayar öncesi dönemde yazı yazmak için kullanılan mekanik cihaz,Zor,Eşya
+Zımpara,Pürüzlü yüzeyleri düzleştirmek için kullanılan aşındırıcı eşya,Zor,Eşya
